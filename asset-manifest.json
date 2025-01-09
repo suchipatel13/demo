@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/suchipatel13/demo.git/static/css/main.f855e6bc.css",
-    "main.js": "/suchipatel13/demo.git/static/js/main.9ffb6e9a.js",
-    "static/js/488.bbb2970e.chunk.js": "/suchipatel13/demo.git/static/js/488.bbb2970e.chunk.js",
-    "index.html": "/suchipatel13/demo.git/index.html",
-    "main.f855e6bc.css.map": "/suchipatel13/demo.git/static/css/main.f855e6bc.css.map",
-    "main.9ffb6e9a.js.map": "/suchipatel13/demo.git/static/js/main.9ffb6e9a.js.map",
-    "488.bbb2970e.chunk.js.map": "/suchipatel13/demo.git/static/js/488.bbb2970e.chunk.js.map"
+    "main.css": "/demo/static/css/main.f855e6bc.css",
+    "main.js": "/demo/static/js/main.8e324340.js",
+    "static/js/488.bbb2970e.chunk.js": "/demo/static/js/488.bbb2970e.chunk.js",
+    "index.html": "/demo/index.html",
+    "main.f855e6bc.css.map": "/demo/static/css/main.f855e6bc.css.map",
+    "main.8e324340.js.map": "/demo/static/js/main.8e324340.js.map",
+    "488.bbb2970e.chunk.js.map": "/demo/static/js/488.bbb2970e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.9ffb6e9a.js"
+    "static/js/main.8e324340.js"
   ]
 }
